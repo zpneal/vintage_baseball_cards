@@ -67,7 +67,6 @@
 |1959 Topps              |291    |Pedro Ramos / Camilo Pascual                                              |    10|
 |1959 Topps              |30     |Nellie Fox                                                                |    25|
 |1959 Topps              |307    |Curt Barclay                                                              |     5|
-|1959 Topps              |309    |Sal Maglie                                                                |     0|
 |1959 Topps              |31     |Ken Lehman                                                                |     5|
 |1959 Topps              |311    |Norm Zauchin                                                              |     5|
 |1959 Topps              |317    |Richie Ashburn / Willie Mays                                              |    50|
@@ -189,7 +188,6 @@
 |1960 Topps              |171    |Johnny Groth                                                              |     5|
 |1960 Topps              |174    |Indians Team                                                              |     5|
 |1960 Topps              |179    |Rip Coleman                                                               |     5|
-|1960 Topps              |180    |Harry Simpson                                                             |     0|
 |1960 Topps              |193    |Dick Hyde                                                                 |     5|
 |1960 Topps              |2      |Roman Mejias                                                              |    10|
 |1960 Topps              |201    |Larry Osborne                                                             |     5|
@@ -240,7 +238,6 @@
 |1960 Topps              |336    |Ike Delock                                                                |     5|
 |1960 Topps              |337    |Cal Neeman                                                                |     5|
 |1960 Topps              |338    |Ray Monzant                                                               |     5|
-|1960 Topps              |339    |Harry Chiti                                                               |     0|
 |1960 Topps              |34     |George Anderson                                                           |    25|
 |1960 Topps              |342    |Casey Wise                                                                |     5|
 |1960 Topps              |345    |Don Newcombe                                                              |    10|
@@ -299,7 +296,6 @@
 |1960 Topps              |466    |Phila. Phils [Coaches]                                                    |     5|
 |1960 Topps              |467    |Pitts. Pirates [Coaches]                                                  |     5|
 |1960 Topps              |468    |St. Louis Cards [Coaches]                                                 |     5|
-|1960 Topps              |469    |San Fran. Giants [Coaches]                                                |     0|
 |1960 Topps              |470    |Washington Senators [Coaches]                                             |    10|
 |1960 Topps              |476    |Lou Johnson                                                               |    10|
 |1960 Topps              |477    |Don Ferrarese                                                             |     5|
@@ -371,7 +367,6 @@
 |1961 Topps              |12     |Moe Thacker                                                               |    10|
 |1961 Topps              |121    |Eli Grba                                                                  |     5|
 |1961 Topps              |122    |Cubs Team                                                                 |    10|
-|1961 Topps              |125    |Steve Barber                                                              |     0|
 |1961 Topps              |127    |Ron Kline                                                                 |    10|
 |1961 Topps              |128    |Rip Repulski                                                              |     5|
 |1961 Topps              |129    |Ed Hobaugh                                                                |     5|
@@ -380,7 +375,6 @@
 |1961 Topps              |132    |Al Lopez                                                                  |     5|
 |1961 Topps              |136    |Walt Alston                                                               |    10|
 |1961 Topps              |137    |Chuck Dressen                                                             |     5|
-|1961 Topps              |138    |Danny Murtaugh                                                            |     0|
 |1961 Topps              |139    |Solly Hemus                                                               |     5|
 |1961 Topps              |141    |Billy Williams                                                            |    55|
 |1961 Topps              |142    |Luis Arroyo                                                               |    10|
@@ -390,9 +384,7 @@
 |1961 Topps              |151    |Jim Donohue                                                               |     5|
 |1961 Topps              |152    |Earl Torgeson                                                             |     5|
 |1961 Topps              |153    |Don Lee                                                                   |     5|
-|1961 Topps              |154    |Bobby Del Greco                                                           |     0|
 |1961 Topps              |155    |Johnny Temple                                                             |     5|
-|1961 Topps              |156    |Ken Hunt                                                                  |     0|
 |1961 Topps              |157    |Cal McLish                                                                |     5|
 |1961 Topps              |158    |Pete Daley                                                                |     5|
 |1961 Topps              |159    |Orioles Team                                                              |    10|
@@ -417,7 +409,6 @@
 |1961 Topps              |187    |Billy Klaus                                                               |     5|
 |1961 Topps              |188    |Jim Marshall                                                              |     5|
 |1961 Topps              |189    |Checklist 177-264 [Copyright Almost at                                    |     5|
-|1961 Topps              |195    |Jerry Casale                                                              |     0|
 |1961 Topps              |196    |Ed Bouchee                                                                |     5|
 |1961 Topps              |20     |Robin Roberts                                                             |    15|
 |1961 Topps              |201    |Pete Whisenant                                                            |    10|
@@ -457,13 +448,10 @@
 |1961 Topps              |273    |Checklist 265-352 [Copyright at                                           |    10|
 |1961 Topps              |276    |Ray Rippelmeyer                                                           |     5|
 |1961 Topps              |278    |Don McMahon                                                               |    10|
-|1961 Topps              |279    |Jose Pagan                                                                |     0|
 |1961 Topps              |281    |Frank Sullivan                                                            |     5|
 |1961 Topps              |282    |Faye Throneberry                                                          |     5|
 |1961 Topps              |283    |Bob Anderson                                                              |     5|
 |1961 Topps              |284    |Dick Gernert                                                              |     5|
-|1961 Topps              |286    |George Witt                                                               |     0|
-|1961 Topps              |29     |Don Nottebart                                                             |     0|
 |1961 Topps              |290    |Stan Musial                                                               |    55|
 |1961 Topps              |291    |Tex Clevenger                                                             |     5|
 |1961 Topps              |292    |Jim Baumer                                                                |     5|
@@ -513,12 +501,9 @@
 |1961 Topps              |372    |Bob Hendley                                                               |    10|
 |1961 Topps              |374    |Paul Giel                                                                 |     5|
 |1961 Topps              |375    |Ken Boyer                                                                 |    15|
-|1961 Topps              |376    |Mike Roarke                                                               |     0|
-|1961 Topps              |377    |Ruben Gomez                                                               |     0|
 |1961 Topps              |38     |Bob Lillis                                                                |     5|
 |1961 Topps              |380    |Minnie Minoso                                                             |    25|
 |1961 Topps              |387    |Duke Maas                                                                 |    10|
-|1961 Topps              |391    |Winston Brown                                                             |     0|
 |1961 Topps              |393    |Don Cardwell / Glen Hobbie                                                |    10|
 |1961 Topps              |394    |Ken Walters                                                               |    10|
 |1961 Topps              |396    |Bob Aspromonte                                                            |    10|
@@ -551,7 +536,6 @@
 |1961 Topps              |434    |Tom Brewer                                                                |     5|
 |1961 Topps              |435    |Orlando Cepeda                                                            |    20|
 |1961 Topps              |436    |Jim Maloney                                                               |    15|
-|1961 Topps              |437    |Checklist 430-506 [#440 Is Luis Aparicio]                                 |     0|
 |1961 Topps              |439    |Phil Regan                                                                |    10|
 |1961 Topps              |44     |AL Home Run Leaders                                                       |    65|
 |1961 Topps              |440    |Luis Aparicio                                                             |    20|
@@ -595,13 +579,11 @@
 |1961 Topps              |5      |Johnny Romano                                                             |     5|
 |1961 Topps              |50     |American League 1960 Strikeout Leaders                                    |     5|
 |1961 Topps              |505    |Red Schoendienst                                                          |    15|
-|1961 Topps              |507    |Pete Burnside                                                             |     0|
 |1961 Topps              |508    |Rocky Bridges                                                             |     5|
 |1961 Topps              |510    |Art Ditmar                                                                |    10|
 |1961 Topps              |511    |Joe Morgan                                                                |     5|
 |1961 Topps              |513    |Jim Brosnan                                                               |     5|
 |1961 Topps              |516    |Checklist 507-587 [2nd C Of Check Covers Top of                           |    15|
-|1961 Topps              |52     |George Crowe                                                              |     0|
 |1961 Topps              |521    |Norm Sherry / Larry Sherry                                                |     5|
 |1961 Topps              |522    |Dick Farrell                                                              |     5|
 |1961 Topps              |527    |Gene Leek                                                                 |    15|
@@ -636,7 +618,6 @@
 |1961 Topps              |98     |Checklist 89-176 [Yellow Letters, Black 98]                               |    10|
 |1961 Topps              |99     |Don Buddin                                                                |     5|
 |1962 Topps              |100    |Warren Spahn                                                              |    30|
-|1962 Topps              |101    |Carroll Hardy                                                             |     0|
 |1962 Topps              |103    |Don Blasingame                                                            |     5|
 |1962 Topps              |105    |Don Mossi                                                                 |     5|
 |1962 Topps              |107    |Mike McCormick                                                            |     5|
@@ -652,9 +633,7 @@
 |1962 Topps              |12     |Harry Craft                                                               |     5|
 |1962 Topps              |121    |Billy Hitchcock                                                           |     5|
 |1962 Topps              |122    |Norm Bass                                                                 |    10|
-|1962 Topps              |123    |Mike DeLahoz                                                              |     0|
 |1962 Topps              |125    |Gene Woodling                                                             |    10|
-|1962 Topps              |126    |Al Cicotte                                                                |     0|
 |1962 Topps              |127    |Pride of the A's                                                          |    10|
 |1962 Topps              |128    |Art Fowler                                                                |    10|
 |1962 Topps              |13     |Dick Howser                                                               |    10|
@@ -674,10 +653,8 @@
 |1962 Topps              |144    |Farewell Speech                                                           |    30|
 |1962 Topps              |145    |Barry Latman                                                              |    10|
 |1962 Topps              |147    |Bill Kunkel [Portrait]                                                    |    10|
-|1962 Topps              |148    |Wally Post                                                                |     0|
 |1962 Topps              |149    |Bob Duliba                                                                |     5|
 |1962 Topps              |151    |Johnny Klippstein                                                         |     5|
-|1962 Topps              |152    |Mickey Vernon                                                             |     0|
 |1962 Topps              |153    |Pumpsie Green                                                             |    10|
 |1962 Topps              |155    |Stu Miller                                                                |     5|
 |1962 Topps              |157    |Wes Covington                                                             |     5|
@@ -713,7 +690,6 @@
 |1962 Topps              |201    |Ike Delock                                                                |    10|
 |1962 Topps              |202    |Carl Warwick                                                              |     5|
 |1962 Topps              |203    |Jack Fisher                                                               |     5|
-|1962 Topps              |204    |Johnny Weekly                                                             |     0|
 |1962 Topps              |205    |Gene Freese                                                               |    10|
 |1962 Topps              |207    |Pete Burnside                                                             |     5|
 |1962 Topps              |208    |Billy Martin                                                              |    20|
@@ -723,7 +699,6 @@
 |1962 Topps              |214    |Dom Zanni                                                                 |     5|
 |1962 Topps              |215    |Woody Held                                                                |    10|
 |1962 Topps              |22     |Checklist 1-88 [#121 176 on Back]                                         |     5|
-|1962 Topps              |22     |Checklist 1-88 [#33 88 on Back]                                           |     0|
 |1962 Topps              |221    |Bill Short                                                                |     5|
 |1962 Topps              |223    |Alex Grammas                                                              |     5|
 |1962 Topps              |224    |Don Rudolph                                                               |    10|
@@ -744,18 +719,15 @@
 |1962 Topps              |242    |Mel McGaha                                                                |    10|
 |1962 Topps              |243    |Robin Roberts                                                             |    20|
 |1962 Topps              |244    |Don Gile                                                                  |     5|
-|1962 Topps              |245    |Ron Hansen                                                                |     0|
 |1962 Topps              |246    |Art Ditmar                                                                |     5|
 |1962 Topps              |247    |Joe Pignatano                                                             |    10|
 |1962 Topps              |248    |Bob Aspromonte                                                            |    10|
 |1962 Topps              |249    |Ed Keegan                                                                 |     5|
 |1962 Topps              |250    |Norm Cash                                                                 |    15|
 |1962 Topps              |251    |Yankees Team                                                              |    30|
-|1962 Topps              |252    |Earl Francis                                                              |     0|
 |1962 Topps              |253    |Harry Chiti                                                               |     5|
 |1962 Topps              |254    |Gordon Windhorn                                                           |     5|
 |1962 Topps              |256    |Elio Chacon                                                               |    15|
-|1962 Topps              |257    |Jack Spring                                                               |     0|
 |1962 Topps              |259    |Lou Klimchock                                                             |     5|
 |1962 Topps              |260    |Bill Pierce                                                               |     5|
 |1962 Topps              |261    |George Alusik                                                             |     5|
@@ -766,10 +738,8 @@
 |1962 Topps              |269    |Bob Oldis                                                                 |     5|
 |1962 Topps              |27     |Chuck Cottier                                                             |    10|
 |1962 Topps              |271    |Ray Rippelmeyer                                                           |     5|
-|1962 Topps              |274    |Sammy Taylor                                                              |     0|
 |1962 Topps              |275    |Norm Siebern                                                              |     5|
 |1962 Topps              |276    |Hal Kolstad                                                               |    10|
-|1962 Topps              |277    |Checklist 265-352                                                         |     0|
 |1962 Topps              |278    |Ken Johnson                                                               |    10|
 |1962 Topps              |279    |Hobie Landrith                                                            |     5|
 |1962 Topps              |281    |Jake Gibbs                                                                |    10|
@@ -787,7 +757,6 @@
 |1962 Topps              |299    |Don Wert                                                                  |    10|
 |1962 Topps              |3      |Pete Runnels                                                              |    15|
 |1962 Topps              |303    |Frank Torre                                                               |     5|
-|1962 Topps              |304    |Dick Farrell                                                              |     0|
 |1962 Topps              |305    |Jerry Lumpe                                                               |     5|
 |1962 Topps              |306    |Lindy McDaniel / Larry Jackson                                            |    10|
 |1962 Topps              |307    |Jim Grant                                                                 |    10|
@@ -872,7 +841,6 @@
 |1962 Topps              |401    |Rogers Maris / Orlando Cepeda                                             |    50|
 |1962 Topps              |402    |Gino Cimoli                                                               |     5|
 |1962 Topps              |403    |Chet Nichols                                                              |     5|
-|1962 Topps              |404    |Tim Harkness                                                              |     0|
 |1962 Topps              |405    |Jim Perry                                                                 |    15|
 |1962 Topps              |406    |Bob Taylor                                                                |    10|
 |1962 Topps              |407    |Hank Aguirre                                                              |    10|
@@ -880,7 +848,6 @@
 |1962 Topps              |409    |Pirates Team                                                              |    15|
 |1962 Topps              |41     |Cliff Cook                                                                |     5|
 |1962 Topps              |410    |Al Smith                                                                  |    10|
-|1962 Topps              |411    |Danny O'Connell                                                           |     0|
 |1962 Topps              |413    |Matty Alou                                                                |     5|
 |1962 Topps              |414    |Joe Gaines                                                                |     5|
 |1962 Topps              |415    |Bill Virdon                                                               |    10|
@@ -904,7 +871,6 @@
 |1962 Topps              |438    |Dick Brown                                                                |     5|
 |1962 Topps              |439    |Jerry Buchek                                                              |     5|
 |1962 Topps              |44     |Don Taussig                                                               |     5|
-|1962 Topps              |440    |Joe Jay                                                                   |     0|
 |1962 Topps              |441    |Checklist 430-506                                                         |     5|
 |1962 Topps              |442    |Wes Stock                                                                 |     5|
 |1962 Topps              |443    |Del Crandall                                                              |    10|
@@ -913,10 +879,8 @@
 |1962 Topps              |446    |Don Elston                                                                |     5|
 |1962 Topps              |451    |Jose Tartabull                                                            |    10|
 |1962 Topps              |454    |Floyd Robinson                                                            |     5|
-|1962 Topps              |46     |Jack Baldschun                                                            |     0|
 |1962 Topps              |479    |Joel Horlen                                                               |    10|
 |1962 Topps              |489    |Julio Gotay                                                               |     5|
-|1962 Topps              |49     |Hal Jones                                                                 |     0|
 |1962 Topps              |5      |Sandy Koufax                                                              |   115|
 |1962 Topps              |513    |Whitey Herzog                                                             |    10|
 |1962 Topps              |514    |Sherm Lollar                                                              |    10|
@@ -945,7 +909,6 @@
 |1962 Topps              |86     |Donn Clendenon                                                            |    10|
 |1962 Topps              |88     |Ralph Houk                                                                |    10|
 |1962 Topps              |89     |Barney Schultz                                                            |     5|
-|1962 Topps              |98     |Checklist 89-176                                                          |     0|
 |1962 Topps              |99     |John Powell                                                               |    20|
 |1963 Fleer              |1      |Steve Barber                                                              |    25|
 |1963 Fleer              |10     |Jim Landis                                                                |     5|
@@ -990,10 +953,8 @@
 |1963 Fleer              |66     |Billy O'Dell                                                              |    15|
 |1963 Fleer              |7      |Bill Monbouquette                                                         |    10|
 |1963 Fleer              |9      |Ray Herbert                                                               |     5|
-|1963 Post Cereal        |136    |Jim O'Toole [Hand Cut]                                                    |     0|
 |1963 Post Cereal        |139    |Dick Groat [Hand Cut]                                                     |     5|
 |1963 Post Cereal        |195    |Charlie Neal [Hand Cut]                                                   |     5|
-|1963 Post Cereal        |26     |Joe Koppe [Hand Cut 1962 Avg. Is .227]                                    |     0|
 |1963 Post Cereal        |57     |Jim Gentile [Hand Cut]                                                    |     5|
 |1963 Post Cereal        |68     |Jerry Kindall [Hand Cut]                                                  |     5|
 |1963 Topps              |10     |1962 American League Strikeout Leaders                                    |    15|
@@ -1022,7 +983,6 @@
 |1963 Topps              |18     |Buc Blasters                                                              |    30|
 |1963 Topps              |189    |Dave Giusti                                                               |     5|
 |1963 Topps              |19     |Pete Burnside                                                             |     5|
-|1963 Topps              |191    |Checklist 177-264                                                         |     0|
 |1963 Topps              |195    |Manny Jimenez                                                             |     5|
 |1963 Topps              |196    |Doug Camilli                                                              |     5|
 |1963 Topps              |2      |1962 American League Batting Leaders                                      |    45|
@@ -1087,7 +1047,6 @@
 |1963 Topps              |49     |Dal Maxvill                                                               |     5|
 |1963 Topps              |496    |Steve Dalkowski / Fred Newman / Carl Bouldin / Jack Smith                 |    30|
 |1963 Topps              |5      |1962 National League E.R.A. Leaders                                       |    25|
-|1963 Topps              |50     |Bill Pierce                                                               |     0|
 |1963 Topps              |509    |Checklist 507-576 [Copyright Centered]                                    |     5|
 |1963 Topps              |51     |George Alusik                                                             |     5|
 |1963 Topps              |516    |Purnal Goldy                                                              |    10|
@@ -1180,7 +1139,6 @@
 |1964 Topps              |69     |Clete Boyer                                                               |     5|
 |1964 Topps              |7      |1963 National League Batting Leaders                                      |    25|
 |1964 Topps              |71     |Jack Spring                                                               |     5|
-|1964 Topps              |74     |Bob Priddy / Tom Butters                                                  |     0|
 |1964 Topps              |76     |Checklist 1-88                                                            |     5|
 |1964 Topps              |77     |Jerry Walker                                                              |    10|
 |1964 Topps              |78     |Merritt Ranew                                                             |     5|
@@ -1216,7 +1174,6 @@
 |1965 Topps              |121    |Gene Alley                                                                |     5|
 |1965 Topps              |122    |Bill Pleis                                                                |     5|
 |1965 Topps              |123    |Frank Thomas                                                              |     5|
-|1965 Topps              |124    |Tom Satriano                                                              |     0|
 |1965 Topps              |125    |Juan Pizarro                                                              |    10|
 |1965 Topps              |127    |Frank Lary                                                                |     5|
 |1965 Topps              |128    |Vic Davalillo                                                             |     5|
@@ -1234,7 +1191,6 @@
 |1965 Topps              |14     |Len Gabrielson                                                            |     5|
 |1965 Topps              |140    |Dean Chance                                                               |    10|
 |1965 Topps              |141    |Charlie James                                                             |     5|
-|1965 Topps              |142    |Bill Monbouquette                                                         |     0|
 |1965 Topps              |143    |Pirates 1965 Rookie Stars                                                 |    10|
 |1965 Topps              |144    |Ed Kranepool                                                              |    10|
 |1965 Topps              |145    |Luis Tiant                                                                |    40|
@@ -1249,14 +1205,11 @@
 |1965 Topps              |153    |Norm Cash                                                                 |    15|
 |1965 Topps              |154    |Bob Humphreys                                                             |     5|
 |1965 Topps              |155    |Roger Maris                                                               |    45|
-|1965 Topps              |156    |Bob Sadowski                                                              |     0|
 |1965 Topps              |157    |Zoilo Versalles                                                           |     5|
 |1965 Topps              |158    |Dick Sisler                                                               |    10|
 |1965 Topps              |159    |Jim Duffalo                                                               |    10|
 |1965 Topps              |16     |Astros Rookie Stars                                                       |    95|
 |1965 Topps              |160    |Roberto Clemente                                                          |   120|
-|1965 Topps              |161    |Frank Baumann                                                             |     0|
-|1965 Topps              |162    |Russ Nixon                                                                |     0|
 |1965 Topps              |163    |John Briggs                                                               |     5|
 |1965 Topps              |164    |Al Spangler                                                               |    10|
 |1965 Topps              |165    |Dick Ellsworth                                                            |     5|
@@ -1276,7 +1229,6 @@
 |1965 Topps              |179    |Hal Woodeshick                                                            |     5|
 |1965 Topps              |18     |Bill McCool                                                               |    10|
 |1965 Topps              |180    |Bob Allison                                                               |     5|
-|1965 Topps              |181    |Senators 1965 Rookie Stars                                                |     0|
 |1965 Topps              |182    |Mike de La Hoz                                                            |     5|
 |1965 Topps              |183    |Dave Nicholson                                                            |     5|
 |1965 Topps              |184    |John Boozer                                                               |     5|
@@ -1286,14 +1238,12 @@
 |1965 Topps              |188    |Sam Bowens                                                                |     5|
 |1965 Topps              |189    |Checklist 177-264                                                         |    10|
 |1965 Topps              |190    |Bill White                                                                |    10|
-|1965 Topps              |191    |Phil Regan                                                                |     0|
 |1965 Topps              |192    |Jim Coker                                                                 |    10|
 |1965 Topps              |193    |Gaylord Perry                                                             |    15|
 |1965 Topps              |194    |Angels 1965 Rookie Stars                                                  |     5|
 |1965 Topps              |195    |Bob Veale                                                                 |    10|
 |1965 Topps              |196    |Ron Fairly                                                                |     5|
 |1965 Topps              |197    |Diego Segui                                                               |    10|
-|1965 Topps              |198    |Smoky Burgess                                                             |     0|
 |1965 Topps              |199    |Bob Heffner                                                               |     5|
 |1965 Topps              |2      |National League 1964 Batting Leaders                                      |    40|
 |1965 Topps              |20     |Jim Bunning                                                               |    20|
@@ -1325,7 +1275,6 @@
 |1965 Topps              |224    |Bob Chance                                                                |     5|
 |1965 Topps              |225    |Bo Belinsky                                                               |     5|
 |1965 Topps              |226    |Yankees 1965 Rookie Stars                                                 |    15|
-|1965 Topps              |227    |Bobby Klaus                                                               |     0|
 |1965 Topps              |228    |Jack Sanford                                                              |     5|
 |1965 Topps              |229    |Lou Clinton                                                               |     5|
 |1965 Topps              |23     |Bob Tiefenauer                                                            |     5|
@@ -1336,8 +1285,6 @@
 |1965 Topps              |236    |Dennis McLain                                                             |    35|
 |1965 Topps              |237    |Bernie Allen                                                              |     5|
 |1965 Topps              |238    |Joe Moeller                                                               |     5|
-|1965 Topps              |239    |Doc Edwards                                                               |     0|
-|1965 Topps              |240    |Bob Bruce                                                                 |     0|
 |1965 Topps              |241    |Mack Jones                                                                |     5|
 |1965 Topps              |242    |George Brunet                                                             |    10|
 |1965 Topps              |243    |Reds 1965 Rookie Stars                                                    |     5|
@@ -1356,7 +1303,6 @@
 |1965 Topps              |255    |Camilo Pascual                                                            |    10|
 |1965 Topps              |256    |Tito Francona                                                             |     5|
 |1965 Topps              |257    |Jim Wynn                                                                  |     5|
-|1965 Topps              |258    |Larry Bearnarth                                                           |     0|
 |1965 Topps              |259    |Tigers 1965 Rookie Stars                                                  |    10|
 |1965 Topps              |26     |Bobby Knoop                                                               |     5|
 |1965 Topps              |261    |Duke Carmel                                                               |    15|
@@ -1372,7 +1318,6 @@
 |1965 Topps              |271    |Don Wert                                                                  |     5|
 |1965 Topps              |272    |Chuck Schilling                                                           |     5|
 |1965 Topps              |273    |Checklist 265-352                                                         |     5|
-|1965 Topps              |274    |Lum Harris                                                                |     0|
 |1965 Topps              |275    |Dick Groat                                                                |    10|
 |1965 Topps              |276    |Hoyt Wilhelm                                                              |    15|
 |1965 Topps              |277    |Johnny Lewis                                                              |    10|
@@ -1384,8 +1329,6 @@
 |1965 Topps              |282    |Giants 1965 Rookie Stars                                                  |    30|
 |1965 Topps              |283    |Fred Whitfield                                                            |    10|
 |1965 Topps              |284    |Nick Willhite                                                             |     5|
-|1965 Topps              |285    |Ron Hunt                                                                  |     0|
-|1965 Topps              |286    |Athletics 1965 Rookie Stars                                               |     0|
 |1965 Topps              |287    |Gary Kolb                                                                 |     5|
 |1965 Topps              |288    |Jack Hamilton                                                             |     5|
 |1965 Topps              |29     |Felix Mantilla                                                            |     5|
@@ -1401,7 +1344,6 @@
 |1965 Topps              |299    |Jerry Zimmerman                                                           |     5|
 |1965 Topps              |3      |American League 1964 Home Run Leaders                                     |    45|
 |1965 Topps              |30     |Jim Bouton                                                                |     5|
-|1965 Topps              |301    |Birdie Tebbetts                                                           |     0|
 |1965 Topps              |302    |Al Stanek                                                                 |    10|
 |1965 Topps              |303    |Johnny Orsino                                                             |    10|
 |1965 Topps              |304    |Dave Stenhouse                                                            |     5|
@@ -1440,8 +1382,6 @@
 |1965 Topps              |335    |Mickey Lolich                                                             |    10|
 |1965 Topps              |336    |Woody Held                                                                |     5|
 |1965 Topps              |337    |Mike Cuellar                                                              |    10|
-|1965 Topps              |338    |Phillies Team                                                             |     0|
-|1965 Topps              |339    |Ryne Duren                                                                |     0|
 |1965 Topps              |34     |Cal Koonce                                                                |    10|
 |1965 Topps              |340    |Tony Oliva                                                                |    70|
 |1965 Topps              |341    |Bobby Bolin                                                               |     5|
@@ -1467,7 +1407,6 @@
 |1965 Topps              |360    |Orlando Cepeda                                                            |    25|
 |1965 Topps              |361    |Checklist 353-429                                                         |     5|
 |1965 Topps              |362    |Don Schwall                                                               |    15|
-|1965 Topps              |363    |Bob Johnson                                                               |     0|
 |1965 Topps              |364    |Galen Cisco                                                               |    10|
 |1965 Topps              |365    |Jim Gentile                                                               |    10|
 |1965 Topps              |366    |Dan Schneider                                                             |     5|
@@ -1495,7 +1434,6 @@
 |1965 Topps              |387    |Johnny Podres                                                             |     5|
 |1965 Topps              |388    |John Blanchard                                                            |     5|
 |1965 Topps              |389    |Don Larsen                                                                |    10|
-|1965 Topps              |39     |Gerry Arrigo                                                              |     0|
 |1965 Topps              |390    |Bill Freehan                                                              |    15|
 |1965 Topps              |391    |Mel McGaha                                                                |     5|
 |1965 Topps              |392    |Bob Friend                                                                |     5|
@@ -1537,12 +1475,10 @@
 |1965 Topps              |424    |Gary Bell                                                                 |     5|
 |1965 Topps              |425    |Wayne Causey                                                              |     5|
 |1965 Topps              |426    |Braves Team                                                               |    10|
-|1965 Topps              |427    |Bob Saverine                                                              |     0|
 |1965 Topps              |428    |Bob Shaw                                                                  |     5|
 |1965 Topps              |429    |Don Demeter                                                               |     5|
 |1965 Topps              |43     |Mike Shannon                                                              |    10|
 |1965 Topps              |430    |Gary Peters                                                               |     5|
-|1965 Topps              |431    |Cards 1965 Rookie Stars                                                   |     0|
 |1965 Topps              |432    |Jim Grant                                                                 |    10|
 |1965 Topps              |433    |John Bateman                                                              |     5|
 |1965 Topps              |434    |Dave Morehead                                                             |     5|
@@ -1551,7 +1487,6 @@
 |1965 Topps              |437    |Chico Cardenas                                                            |    10|
 |1965 Topps              |438    |Harry Walker                                                              |     5|
 |1965 Topps              |439    |Moe Drabowsky                                                             |     5|
-|1965 Topps              |44     |Wade Blasingame                                                           |     0|
 |1965 Topps              |440    |Tom Tresh                                                                 |    10|
 |1965 Topps              |441    |Denver Lemaster                                                           |     5|
 |1965 Topps              |442    |Vic Power                                                                 |    10|
@@ -1586,12 +1521,10 @@
 |1965 Topps              |469    |Don Nottebart                                                             |    10|
 |1965 Topps              |47     |Tommy Harper                                                              |    10|
 |1965 Topps              |470    |Yogi Berra                                                                |    60|
-|1965 Topps              |471    |Billy Hoeft                                                               |     0|
 |1965 Topps              |472    |Don Pavletich                                                             |    10|
 |1965 Topps              |473    |Orioles 1965 Rookie Stars                                                 |    25|
 |1965 Topps              |474    |Cookie Rojas                                                              |    10|
 |1965 Topps              |475    |Clete Boyer                                                               |     5|
-|1965 Topps              |476    |Billy O'Dell                                                              |     0|
 |1965 Topps              |477    |Cards 1965 Rookie Stars                                                   |   145|
 |1965 Topps              |478    |Wilbur Wood                                                               |     5|
 |1965 Topps              |479    |Ken Harrelson                                                             |     5|
@@ -1623,12 +1556,10 @@
 |1965 Topps              |501    |Indians 1965 Rookie Stars                                                 |     5|
 |1965 Topps              |502    |Don Cardwell                                                              |     5|
 |1965 Topps              |503    |Phil Gagliano                                                             |     5|
-|1965 Topps              |504    |Jerry Grote                                                               |     0|
 |1965 Topps              |505    |Ray Culp                                                                  |    10|
 |1965 Topps              |506    |Sam Mele                                                                  |     5|
 |1965 Topps              |507    |Sammy Ellis                                                               |     5|
 |1965 Topps              |508    |Checklist 507-598 [Small Print on Front]                                  |     5|
-|1965 Topps              |51     |Billy Bryan                                                               |     0|
 |1965 Topps              |510    |Ernie Banks                                                               |    75|
 |1965 Topps              |511    |Ron Locke                                                                 |    10|
 |1965 Topps              |512    |Cap Peterson                                                              |     5|
@@ -1657,7 +1588,6 @@
 |1965 Topps              |533    |Mets 1965 Rookie Stars                                                    |    20|
 |1965 Topps              |534    |John Herrnstein                                                           |     5|
 |1965 Topps              |535    |Jack Kralick                                                              |     5|
-|1965 Topps              |536    |Andre Rodgers                                                             |     0|
 |1965 Topps              |537    |Angels 1965 Rookie Stars                                                  |     5|
 |1965 Topps              |538    |Chuck Dressen                                                             |     5|
 |1965 Topps              |539    |Herm Starrette                                                            |    10|
@@ -1702,7 +1632,6 @@
 |1965 Topps              |577    |American League 1965 Rookie Stars                                         |     5|
 |1965 Topps              |578    |Camilo Carreon                                                            |     5|
 |1965 Topps              |579    |Dick Smith                                                                |     5|
-|1965 Topps              |58     |Fred Talbot                                                               |     0|
 |1965 Topps              |580    |Jimmie Hall                                                               |     5|
 |1965 Topps              |581    |National League 1965 Rookie Stars                                         |    75|
 |1965 Topps              |582    |Bob Schmidt                                                               |     5|
@@ -1710,7 +1639,6 @@
 |1965 Topps              |584    |Harry Bright                                                              |     5|
 |1965 Topps              |585    |Hank Fischer                                                              |     5|
 |1965 Topps              |586    |Tommy McCraw                                                              |     5|
-|1965 Topps              |587    |Joe Sparma                                                                |     0|
 |1965 Topps              |588    |Lenny Green                                                               |     5|
 |1965 Topps              |589    |Giants 1965 Rookie Stars                                                  |     5|
 |1965 Topps              |59     |Nate Oliver                                                               |     5|
@@ -1751,7 +1679,6 @@
 |1965 Topps              |84     |Ron Herbel                                                                |     5|
 |1965 Topps              |85     |Willie Smith                                                              |     5|
 |1965 Topps              |86     |Les Narum                                                                 |     5|
-|1965 Topps              |87     |Nelson Mathews                                                            |     0|
 |1965 Topps              |88     |Jack Lamabe                                                               |     5|
 |1965 Topps              |89     |Mike Hershberger                                                          |    10|
 |1965 Topps              |9      |American League 1964 Pitching Leaders                                     |     5|
