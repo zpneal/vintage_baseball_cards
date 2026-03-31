@@ -4,4 +4,4 @@
 
 **Prices**: The prices listed below are for single card purchases and purchases under 100 USD. If you are interested in purchasing multiple cards totaling more than 100 USD, let me know and I can offer a better price.
 
-**Photos**: It's not practical for me to upload photos of every card. But, I will happily send closeup front and back photos of any card you're interested in.
+**Photos**: It's not practical to upload photos of every card. But, we will happily send closeup front and back photos of any card(s) you're interested in.
