@@ -1,4 +1,4 @@
-**Payment**: Payment is by PayPal Goods & Services Invoice (I'll send you an itemized invoice by email, and you can pay using an existing PayPal account, credit, or debit card).
+**Payment**: Payment is by PayPal Goods & Services Invoice, which provides you with [PayPal Purchase Protection](https://www.paypal.com/us/digital-wallet/buyer-purchase-protection).
 
 **Shipping (CONUS only)**: Cards are carefully packaged in penny sleeves, in Card Saver I top-loaders, sandwiched between cardboard, in bubble mailers. Shipping is 7 USD for orders under 100 USD, and free for orders over 100 USD.
 
