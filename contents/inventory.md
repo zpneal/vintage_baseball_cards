@@ -4,7 +4,7 @@ This is a portion of a collection I inherited from my father-in-law. The lot con
 
 The cards are generally in great shape. Photos 1 & 2 show some typical examples. Photos 3 & 4 show the only cards I could find that have any significant condition issues. I'm happy to post more photos or photos of specific cards.
 
-**$700 shipped for all 410 cards, including duplicatest**
+**$700 shipped for all 410 cards, including duplicates**
 
 OR
 
